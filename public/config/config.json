@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfF38D0104AF8e4996a5282bF49b5f5e462bc5178",
+  "SCAN_LINK": "https://etherscan.io/token/0xff38d0104af8e4996a5282bf49b5f5e462bc5178",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "NF1T",
+  "SYMBOL": "NF1T",
+  "MAX_SUPPLY": 7000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/NF1T.org",
+  "SHOW_BACKGROUND": false
+}
